@@ -128,7 +128,6 @@
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/RadioButton.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/SignInHomework.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mytestNGproject_1/mytestNGproject_1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../testNGframework/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../testNGframework/.idea/.gitignore" beforeDir="false" />
@@ -184,7 +183,7 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day05_Dropdown.printFirstSelectedOptionTest">
+  <component name="RunManager" selected="JUnit.Day06_Iframe.iframeTest">
     <configuration name="Day05_Dropdown.printAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
@@ -217,7 +216,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_Dropdown.selectByIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_Alerts.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -226,14 +225,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day05_Dropdown" />
-      <option name="METHOD_NAME" value="selectByIndexTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day06_Alerts" />
+      <option name="METHOD_NAME" value="sendKeysAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_Dropdown.selectByValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_Iframe.iframeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -242,14 +241,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day05_Dropdown" />
-      <option name="METHOD_NAME" value="selectByValueTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day06_Iframe" />
+      <option name="METHOD_NAME" value="iframeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_Dropdown.selectByVisibleTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_dynamic_xpath.dynamicXpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -258,8 +257,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day05_Dropdown" />
-      <option name="METHOD_NAME" value="selectByVisibleTextTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day06_dynamic_xpath" />
+      <option name="METHOD_NAME" value="dynamicXpath" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -267,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day06_Iframe.iframeTest" />
+        <item itemvalue="JUnit.Day06_Alerts.sendKeysAlert" />
+        <item itemvalue="JUnit.Day06_dynamic_xpath.dynamicXpath" />
         <item itemvalue="JUnit.Day05_Dropdown.printFirstSelectedOptionTest" />
         <item itemvalue="JUnit.Day05_Dropdown.printAllTest" />
-        <item itemvalue="JUnit.Day05_Dropdown.selectByVisibleTextTest" />
-        <item itemvalue="JUnit.Day05_Dropdown.selectByValueTest" />
-        <item itemvalue="JUnit.Day05_Dropdown.selectByIndexTest" />
       </list>
     </recent_temporary>
   </component>
