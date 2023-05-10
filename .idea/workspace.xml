@@ -128,7 +128,6 @@
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/RadioButton.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/SignInHomework.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day06_Iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day06_Iframe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mytestNGproject_1/mytestNGproject_1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../testNGframework/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../testNGframework/.idea/.gitignore" beforeDir="false" />
@@ -184,8 +183,8 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day07_WindowHandle2.newWindowTest">
-    <configuration name="Day06_Alerts.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day08_Actions4">
+    <configuration name="Day08_Actions2.hoverOverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -194,14 +193,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day06_Alerts" />
-      <option name="METHOD_NAME" value="sendKeysAlert" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions2" />
+      <option name="METHOD_NAME" value="hoverOverTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_Iframe.iframeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_Actions3.scrollUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -210,14 +209,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day06_Iframe" />
-      <option name="METHOD_NAME" value="iframeTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions3" />
+      <option name="METHOD_NAME" value="scrollUpDown" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day07_WindowHandle1.windowHandleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_Actions4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -226,14 +225,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day07_WindowHandle1" />
-      <option name="METHOD_NAME" value="windowHandleTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day08_Actions4.dragAndDropByTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstproject" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions4" />
+      <option name="METHOD_NAME" value="dragAndDropByTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day07_WindowHandle2.newTabTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_Actions4.dragAndDropTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -242,24 +256,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day07_WindowHandle2" />
-      <option name="METHOD_NAME" value="newTabTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day07_WindowHandle2.newWindowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day07_WindowHandle2" />
-      <option name="METHOD_NAME" value="newWindowTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions4" />
+      <option name="METHOD_NAME" value="dragAndDropTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -267,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day07_WindowHandle2.newWindowTest" />
-        <item itemvalue="JUnit.Day07_WindowHandle2.newTabTest" />
-        <item itemvalue="JUnit.Day07_WindowHandle1.windowHandleTest" />
-        <item itemvalue="JUnit.Day06_Iframe.iframeTest" />
-        <item itemvalue="JUnit.Day06_Alerts.sendKeysAlert" />
+        <item itemvalue="JUnit.Day08_Actions4" />
+        <item itemvalue="JUnit.Day08_Actions4.dragAndDropByTest" />
+        <item itemvalue="JUnit.Day08_Actions4.dragAndDropTest" />
+        <item itemvalue="JUnit.Day08_Actions3.scrollUpDown" />
+        <item itemvalue="JUnit.Day08_Actions2.hoverOverTest" />
       </list>
     </recent_temporary>
   </component>
