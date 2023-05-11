@@ -183,8 +183,8 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day08_Actions4">
-    <configuration name="Day08_Actions2.hoverOverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day09_AutoComplete.autoCompleteTest">
+    <configuration name="Day09_AutoComplete.autoCompleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -193,14 +193,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions2" />
-      <option name="METHOD_NAME" value="hoverOverTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day09_AutoComplete" />
+      <option name="METHOD_NAME" value="autoCompleteTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day08_Actions3.scrollUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day09_FileDownloadTest.downloadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -209,14 +209,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions3" />
-      <option name="METHOD_NAME" value="scrollUpDown" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day09_FileDownloadTest" />
+      <option name="METHOD_NAME" value="downloadTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day08_Actions4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day09_FileExistTest.isExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -225,29 +225,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions4" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day08_Actions4.dragAndDropByTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions4" />
-      <option name="METHOD_NAME" value="dragAndDropByTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day09_FileExistTest" />
+      <option name="METHOD_NAME" value="isExist" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day08_Actions4.dragAndDropTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day09_FileUpload.fileUploadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -256,8 +241,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Actions4" />
-      <option name="METHOD_NAME" value="dragAndDropTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day09_FileUpload" />
+      <option name="METHOD_NAME" value="fileUploadTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day09_Authentication.authTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstproject" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.day09_Authentication" />
+      <option name="METHOD_NAME" value="authTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -265,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day08_Actions4" />
-        <item itemvalue="JUnit.Day08_Actions4.dragAndDropByTest" />
-        <item itemvalue="JUnit.Day08_Actions4.dragAndDropTest" />
-        <item itemvalue="JUnit.Day08_Actions3.scrollUpDown" />
-        <item itemvalue="JUnit.Day08_Actions2.hoverOverTest" />
+        <item itemvalue="JUnit.Day09_AutoComplete.autoCompleteTest" />
+        <item itemvalue="JUnit.Day09_FileUpload.fileUploadTest" />
+        <item itemvalue="JUnit.Day09_FileDownloadTest.downloadTest" />
+        <item itemvalue="JUnit.Day09_FileExistTest.isExist" />
+        <item itemvalue="JUnit.day09_Authentication.authTest" />
       </list>
     </recent_temporary>
   </component>
