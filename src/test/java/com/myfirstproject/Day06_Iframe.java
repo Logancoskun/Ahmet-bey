@@ -42,7 +42,6 @@ public class Day06_Iframe extends TestBase {
         JavascriptExecutor js = (JavascriptExecutor)driver;
         js.executeScript("arguments[0].click();", element);
 
-
 //        Assert if h3 element's text is equal to "iframe"
 //       STILL INSIDE THE FRAME. DRIVER MUST SWITCH BACK TO PARENT FRAME OR DEFAULT CONTENT BECAUSE THE ELEMENT IS NOT IN THE FRAME
 //        driver.switchTo().parentFrame();//go to the parent frame

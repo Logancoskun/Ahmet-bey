@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab684f8b-8e35-4a8b-8a7e-b909222ed825" name="Changes" comment="">
+    <list default="true" id="eb17ae32-394a-4fa9-a8bf-302290b77f17" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../B103TestNGProject/B103TestNGProject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../B103TestNGProject/src/test/java/techproed/tests/Day19_TestNGAnnotations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SeleniumNewProject/pom.xml" afterDir="false" />
@@ -48,6 +48,19 @@
       <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/day20_customer_login.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/day20_parameterizing_feature_file.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mycucumberproject/src/test/resources/features/day20_scenario_outline1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day11_ExtentReportsScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day11_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day12_JSExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Reports/20230516072747extent_reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Reports/20230516074119extent_reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Reports/20230516082653extent_reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Reports/20230516082855extent_reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Reports/20230516082931extent_reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Reports/20230516085340extent_reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230516071416image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230516071417image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230516072750image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230516072754image.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mytestNGproject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../playwright-cucumber-docs/src/test/java/pages/TestCenterPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../playwright-cucumber-docs/src/test/java/runners/Runner.java" afterDir="false" />
@@ -127,7 +140,24 @@
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/FirstMavenClass.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/RadioButton.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mymavenproject1/src/test/java/com/techproed/SignInHomework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day06_Iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day06_Iframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day10_ExtentReports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day10_ExtentReports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ElementScreenshot/20230513114531image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ElementScreenshot/20230513114536image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ElementScreenshot/20230513114801image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ElementScreenshot/20230513114807image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Reports/20230513114753extent_reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Reports/20230516071413extent_reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114528image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114531image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114534image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114536image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114758image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114801image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114804image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230513114807image.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mytestNGproject_1/mytestNGproject_1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../testNGframework/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../testNGframework/.idea/.gitignore" beforeDir="false" />
@@ -149,156 +179,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2P6kDjsFuIuvZadKZI7bJ7QL1UD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/techproed/IdeaProjects/myseleniumproject/drivers",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
-  }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/drivers" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/drivers" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.Day10_ExtentReports">
-    <configuration name="Day10_ExtentReports" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day10_ExtentReports" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day10_ExtentReports.extentReportsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day10_ExtentReports" />
-      <option name="METHOD_NAME" value="extentReportsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day10_ScreenshotsOfEntirePage.takeScreenshotOfPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day10_ScreenshotsOfEntirePage" />
-      <option name="METHOD_NAME" value="takeScreenshotOfPageTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day11_Actions_CopyPaste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_Actions_CopyPaste" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day11_Actions_CopyPaste.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_Actions_CopyPaste" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.Day10_ExtentReports" />
-        <item itemvalue="JUnit.Day10_ExtentReports.extentReportsTest" />
-        <item itemvalue="JUnit.Day10_ScreenshotsOfEntirePage.takeScreenshotOfPageTest" />
-        <item itemvalue="JUnit.Day11_Actions_CopyPaste.test1" />
-        <item itemvalue="JUnit.Day11_Actions_CopyPaste" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ab684f8b-8e35-4a8b-8a7e-b909222ed825" name="Changes" comment="" />
-      <created>1682784801286</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1682784801286</updated>
-    </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
