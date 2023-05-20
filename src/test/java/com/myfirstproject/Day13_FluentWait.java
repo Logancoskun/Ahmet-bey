@@ -31,6 +31,5 @@ public class Day13_FluentWait extends TestBase {
         WebElement hello = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@id='finish']//h4")));
         Assert.assertEquals("Hello World!",hello.getText());
 
-
     }
 }
